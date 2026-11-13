@@ -24,16 +24,16 @@ A beginner-friendly workshop covering repositories, commits, branches, pull requ
 
 ## โครงสร้างบทเรียน
 
-| บท | หัวข้อหลัก | หัวข้อย่อย | กิจกรรมและ Checkpoint | นาที |
-|---|---|---|---|---:|
-| 01 | เข้าใจ Git และ GitHub | Version control, Local/Remote, Repository, Commit, Branch | สำรวจ Repository และประวัติการแก้ไข อธิบายบทบาท Git และ GitHub | 15 |
-| 02 | สร้าง Repository แรก | Public/Private, README, โครงสร้างไฟล์ | สร้าง `my-first-project` และ README แนะนำตัว เปิดลิงก์ Repository ได้ | 25 |
-| 03 | แก้ไขไฟล์และบันทึกประวัติ | Markdown, เพิ่ม/แก้ไข/ลบไฟล์, Commit message, History, Diff | เพิ่ม About Me, Skills และ Project Ideas พร้อมอย่างน้อย 3 Commits และอ่าน Diff | 30 |
-| 04 | ทำงานจากคอมพิวเตอร์ | GitHub Desktop, Clone, Local changes, Commit, Push, Fetch, Pull | Clone → แก้ไฟล์ → Commit → Push จากนั้นแก้บนเว็บและ Pull กลับเครื่อง | 35 |
-| 05 | ใช้ Branch ทดลองเปลี่ยนแปลง | main, Feature branch, การสลับ Branch | สร้าง `add-project-page` เพิ่มหน้าโปรเจกต์และ Commit โดย main ยังไม่เปลี่ยน | 30 |
-| 06 | ทำงานร่วมกันด้วย Pull Request | Collaborator, Pull Request, Review, Comment, Merge | จับคู่ทำงานใน Repository ที่ให้สิทธิ์แล้ว เพื่อนเปิด PR เจ้าของตรวจและ Merge | 40 |
-| 07 | แก้ปัญหาและกู้คืนงาน | Merge conflict, การเลือกเนื้อหา, Revert | สร้าง Conflict จากสอง Branch ที่แก้บรรทัดเดียวกัน แก้และตรวจผล จากนั้นฝึก Revert Commit ที่ Push แล้ว | 30 |
-| 08 | จัดการงานและสรุปโปรเจกต์ | Issues, เกณฑ์สำเร็จ, เชื่อม PR กับ Issue, ข้อมูลลับ | Issue → Branch → Commit → PR → Review → Merge → ปิด Issue | 35 |
+| บท | หัวข้อหลัก | หัวข้อย่อย | กิจกรรมและ Checkpoint |
+|---|---|---|---|
+| 01 | เข้าใจ Git และ GitHub | Version control, Local/Remote, Repository, Commit, Branch | สำรวจ Repository และประวัติการแก้ไข อธิบายบทบาท Git และ GitHub |
+| 02 | สร้าง Repository แรก | Public/Private, README, โครงสร้างไฟล์ | สร้าง `my-first-project` และ README แนะนำตัว เปิดลิงก์ Repository ได้ |
+| 03 | แก้ไขไฟล์และบันทึกประวัติ | Markdown, เพิ่ม/แก้ไข/ลบไฟล์, Commit message, History, Diff | เพิ่ม About Me, Skills และ Project Ideas พร้อมอย่างน้อย 3 Commits และอ่าน Diff |
+| 04 | ทำงานจากคอมพิวเตอร์ | GitHub Desktop, Clone, Local changes, Commit, Push, Fetch, Pull | Clone → แก้ไฟล์ → Commit → Push จากนั้นแก้บนเว็บและ Pull กลับเครื่อง |
+| 05 | ใช้ Branch ทดลองเปลี่ยนแปลง | main, Feature branch, การสลับ Branch | สร้าง `add-project-page` เพิ่มหน้าโปรเจกต์และ Commit โดย main ยังไม่เปลี่ยน |
+| 06 | ทำงานร่วมกันด้วย Pull Request | Collaborator, Pull Request, Review, Comment, Merge | จับคู่ทำงานใน Repository ที่ให้สิทธิ์แล้ว เพื่อนเปิด PR เจ้าของตรวจและ Merge |
+| 07 | แก้ปัญหาและกู้คืนงาน | Merge conflict, การเลือกเนื้อหา, Revert | สร้าง Conflict จากสอง Branch ที่แก้บรรทัดเดียวกัน แก้และตรวจผล จากนั้นฝึก Revert Commit ที่ Push แล้ว |
+| 08 | จัดการงานและสรุปโปรเจกต์ | Issues, เกณฑ์สำเร็จ, เชื่อม PR กับ Issue, ข้อมูลลับ | Issue → Branch → Commit → PR → Review → Merge → ปิด Issue |
 
 ## รูปแบบของแต่ละบท
 
