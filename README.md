@@ -1,10 +1,19 @@
 # GitHub Hands-On: A Practical Guide for Beginners
 
-เรียนรู้ GitHub ผ่านการลงมือทำ ด้วย **GitHub Desktop** และ **เว็บไซต์ GitHub**
+เรียนรู้ GitHub ผ่านการลงมือทำ เลือก **Desktop/เว็บไซต์** หรือ **Command Line**
 
-สร้างโปรเจกต์แนะนำตัวและผลงาน `my-first-project` ตั้งแต่ Repository แรก จนถึงการทำงานร่วมกับเพื่อนด้วย Pull Request กิจกรรมหลักไม่ต้องใช้ Command Line และไม่จำเป็นต้องเขียนโปรแกรมเป็น
+สร้างโปรเจกต์แนะนำตัวและผลงานตั้งแต่ Repository แรก จนถึงการทำงานร่วมกับเพื่อนด้วย Pull Request เส้นทาง Desktop/เว็บไซต์ไม่ต้องใช้ Command Line ส่วนเส้นทาง CLI ใช้ Git และ GitHub CLI (`gh`) เป็นหลัก ทั้งสองเส้นทางไม่จำเป็นต้องเขียนโปรแกรมเป็น
 
-## เริ่มเรียน
+## เลือกเส้นทางการเรียน
+
+| เส้นทาง | เริ่มต้น | พื้นที่ฝึก |
+|---|---|---|
+| Desktop และเว็บไซต์ | [บทเรียนเดิม 01–08](lessons/README.md) | `my-first-project` |
+| Command Line | [CLI-01 ถึง CLI-08](lessons/command-line/README.md) | `my-first-project-cli` |
+
+เลือกเรียนเส้นทางเดียวได้ หรือเรียนอีกเส้นทางเพื่อเปรียบเทียบเครื่องมือ ใช้ [ใบงาน CLI](worksheets/command-line/README.md) สำหรับกลุ่ม Terminal
+
+## เริ่มเรียนเส้นทาง Desktop/เว็บไซต์
 
 1. อ่าน [เตรียมความพร้อม](docs/getting-started.md) และติดตั้งเครื่องมือ
 2. เรียนตาม [บทเรียน 01–08](lessons/README.md) โดยใช้ Repository ฝึกของตนเองต่อเนื่องกัน
@@ -22,7 +31,7 @@ Repository นี้คือ **เอกสารประกอบการเ
 
 ใช้ Desktop เป็นเครื่องมือหลักตั้งแต่บท 04 ส่วนคำสั่ง Git อยู่ใน [ภาคผนวกทางเลือก](appendix/command-line.md) ผู้ใช้ระบบที่ไม่รองรับ Desktop ดู [เส้นทางผ่านเว็บ](docs/getting-started.md#เรียนผ่านเว็บไซต์อย่างเดียว)
 
-## โครงสร้างบทเรียน
+## โครงสร้างบทเรียน Desktop/เว็บไซต์
 
 | บท | หัวข้อหลักและหัวข้อย่อย | กิจกรรมสำคัญ |
 |---|---|---|
@@ -42,7 +51,9 @@ Repository นี้คือ **เอกสารประกอบการเ
 | ตำแหน่ง | เนื้อหา |
 |---|---|
 | [docs/](docs/README.md) | การเตรียมเครื่อง แผนผังเอกสาร และเอกสารอ้างอิง |
-| [lessons/](lessons/README.md) | บทเรียนเรียงลำดับ 01–08 บทละโฟลเดอร์ |
+| [lessons/](lessons/README.md) | บทเรียน Desktop/เว็บไซต์ 01–08 |
+| [lessons/command-line/](lessons/command-line/README.md) | บทเรียน CLI-01 ถึง CLI-08 พร้อมการแก้ปัญหาและอ้างอิง |
+| [worksheets/command-line/](worksheets/command-line/README.md) | ใบงานปฏิบัติสำหรับผู้ใช้ Terminal |
 | [worksheets/](worksheets/README.md) | ใบงานบันทึกหลักฐานรายบทและชิ้นงานปลายทาง |
 | [examples/](examples/README.md) | Starter project, ไฟล์ฝึก Conflict และแม่แบบ Issue/PR |
 | [assets/](assets/README.md) | ตัวอย่างภาพประกอบและแนวทางจัดเก็บภาพ |

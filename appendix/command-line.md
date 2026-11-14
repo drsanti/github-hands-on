@@ -1,4 +1,6 @@
-# Command Line ทางเลือก
+# Command Line · คำสั่งย่อ
+
+หากต้องการเรียน Terminal อย่างเป็นขั้นตอน ใช้ [Command-Line Track 8 บท](../lessons/command-line/README.md) พร้อม [ใบงาน CLI](../worksheets/command-line/README.md) หน้านี้เป็นเพียง Quick reference ของเส้นทาง Desktop/เว็บไซต์
 
 ส่วนนี้สำหรับผู้ที่ต้องการเชื่อมแนวคิดกับคำสั่ง Git **ไม่จำเป็นต้องใช้เพื่อผ่านกิจกรรมหลัก** ต้องติดตั้ง Git และตั้งค่าการเข้าสู่ระบบสำหรับ Terminal แยกตามเครื่อง การใช้ Desktop ได้ไม่ได้รับประกันว่า Terminal พร้อมใช้ทันที
 

@@ -1,4 +1,6 @@
-# บทเรียน
+# บทเรียน Desktop และเว็บไซต์
+
+สำหรับผู้ที่ต้องการใช้ Terminal เป็นหลัก เริ่มที่ [Command-Line Track: CLI-01 ถึง CLI-08](command-line/README.md) ซึ่งมีขั้นตอนและใบงานแยก
 
 เริ่มจาก [เตรียมความพร้อม](../docs/getting-started.md) แล้วทำตามลำดับใน Repository `my-first-project` ของตนเอง
 

@@ -11,14 +11,14 @@
 - ชื่อบัญชี GitHub:
 - ลิงก์ Repository:
 - คู่ Review:
-- เส้นทาง: Desktop / Web / ผสม (ระบุสิ่งที่ทำเองและสิ่งที่ดู Demo)
+- เส้นทาง: Desktop / Web / Command Line / ผสม (ระบุสิ่งที่ทำเองและสิ่งที่ดู Demo)
 - ปัญหาที่เลือกแก้:
 - Acceptance criteria อย่างน้อย 2 ข้อ:
 - Issue URL:
 - PR URL และชื่อ Base/Compare:
 - Commit สำคัญและคำอธิบาย:
 - ข้อเสนอแนะของเพื่อนและสิ่งที่แก้ตาม:
-- หลักฐานว่า Local main อัปเดตแล้ว (ผู้ใช้ Desktop):
+- หลักฐานว่า Local main อัปเดตแล้ว (ผู้ใช้ Desktop หรือ CLI):
 
 ## ตรวจความพร้อม
 
@@ -28,7 +28,7 @@
 - [ ] ประวัติ Commits อธิบายสิ่งที่เปลี่ยนได้
 - [ ] PR มี Review จากอีกคน และสถานะ Merged
 - [ ] Issue เชื่อม PR และปิดเมื่อทำงานเสร็จ
-- [ ] แนบหลักฐาน Conflict และ Revert จากใบงาน 07
+- [ ] แนบหลักฐาน Conflict และ Revert จากใบงาน 07 ของเส้นทางที่เลือก
 - [ ] อธิบาย Save/Commit/Push/Pull และ PR ได้
 
 ## สะท้อนผล
